@@ -1,2 +1,7 @@
 # hello-world
-Starter for 10
+This is my starter for 10
+
+Seems OK to me
+
+
+
